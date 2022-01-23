@@ -50,3 +50,28 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Others build files
+*.crf
+*.Bak
+*.dep
+*.htm
+*.bak
+*.axf
+*.lnp
+*.map
+*.plg
+*.sct
+*.tra
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvproj.*
+*.lst
+*.iex
+*.ini
+*.txt
+
+# Images
+*.jpg
+*.scvd
